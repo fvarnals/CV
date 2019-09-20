@@ -1,11 +1,10 @@
 ## Freddie Varnals
 
-I am a naturally curious and enthusiastic individual, with a long standing passion for data analytics in a variety of fields.
-Throughout my academic and professional career, I have always thrived and relished in asking difficult questions and
-using data to find empirically justified answers. I am at my best when applying lateral thinking to problem solving, and
-get a huge buzz from producing solutions to complex problems. As such, having decided to steer my career further in
-this direction, I have independently taught myself coding, datascience and deep learning techinques from scratch; I
-cannot wait to apply and further develop my knowledge and skills in a professional environment.
+I am a naturally curious and enthusiastic individual, with a long standing passion for the Sciences, data analytics, and problem solving. 
+
+Throughout my academic and professional career, I have always relished in and thrived on asking difficult questions, and using data to find empirically justified answers. I am at my best when applying lateral thinking to problem solving, and get a huge buzz from finding solutions to complex problems.
+
+I have independently taught myself coding, datascience and deep learning techinques from scratch, and have recently completed an intensive 4-month Software Development bootcamp with Makers, where I have learnt OOP, TDD, Agile Software Development, Pair Programming, and Project Work in a heavily self-learning based curriculum.
 
 ## Skills
 
@@ -13,9 +12,9 @@ Consider skills relevent to software development. Then consider your best skills
 
 #### Analytical
 
-- Amazon UK (2014-2017)
-- Regular critical analysis for brands, deep-diving into performance, to identify growth opportunities, utilising key
-metrics such as revenue, availability, conversions, and brand exposure – both brands grew above category average.
+**Amazon UK (2014-2017)**
+- Regular critical business analysis for brands, deep-diving into performance to identify growth opportunities, utilising key
+metrics such as revenue, availability, conversions, and brand exposure – both of brands grew above category average.
 - Utilised Excel Macros and SQL to automate promotional pricing, improving efficiency and reducing errors.
 - Created Excel deck to flag issues relating to key product metrics (i.e. stock and pricing issues), avoiding time
 consuming manual processing, and avoiding missed opportunities.
@@ -33,10 +32,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (May 2019 to September 2019)
 
-- OOP, TDD, MVC, DDD
+- Ruby, Rails, JavaScript, React Native
+- OOP, TDD, MVC, BDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, jQuery, Jest, Enzyme
 
 #### University of Bristol (2013 to 2014)
 
