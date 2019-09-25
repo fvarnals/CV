@@ -58,7 +58,7 @@ comprehensive analysis to inform stakeholders of progress, strategy, and my perf
 -----------------------------------------------------
 ## Education
 
-#### Makers Academy (May 2019 to September 2019)
+#### Makers Academy (May - September 2019)
 
 - Self-learning new languages, frameworks and databases
 - Experience in pairing, team and individual work
@@ -67,7 +67,7 @@ comprehensive analysis to inform stakeholders of progress, strategy, and my perf
 - Agile/XP
 - RSpec, Jasmine, jQuery, Jest, Enzyme
 
-#### University of Bristol (2013 to 2014)
+#### University of Bristol (2013 - 2014)
 *Biomedical Sciences Research MSc (**Distinction**)*
 *Units - Neuroscience, Pharmacology and Cell Biology*
 
@@ -75,7 +75,7 @@ comprehensive analysis to inform stakeholders of progress, strategy, and my perf
 
 - Developed a new method of screening antidepressant pharmaceuticals in rats, using a touch screen based task. Research aimed to develop and validate two novel animal models of depression in tandem, one with on-line recording of data for deep analysis.
 
-#### University of Bristol (2009-2012)
+#### University of Bristol (2009 - 2012)
 *Chemistry BSc*
 
 #### Merchant Taylors’ School (Northwood) (2001 – 2008)
@@ -87,7 +87,7 @@ comprehensive analysis to inform stakeholders of progress, strategy, and my perf
 #### Other Qualifications
 
 ##### Stanford Machine Learning 
-*Coursera (Oct 2018 - Dec 2018) - 100% Passing Grade*<br>
+*Coursera (Oct - Dec 2018) - 100% Passing Grade*<br>
 **A comprehensive course teaching theory as well as practical application of machine learning algorithms, from
 Linear Regression to Artificial Neural Networks, with weekly graded exams and programming assignments.**
 
@@ -101,12 +101,12 @@ identify high bias/under-fitting vs high variance/over-fitting data issues and h
 
 ## Experience
 
-**Amazon UK** - Strategic Brand Consultancy (Jun 2015 to Feb 2017)    
+**Amazon UK** - Strategic Brand Consultancy (2015 - 2017)    
 *An extremely dynamic and demanding role primarily divided between - business consultancy for international 
 brands, and internal optimisation of core business procedures through automation and innovation.*
 
 
-**Amazon UK** - Catalogue Consultancy  (Dec 2014 to Jun 2015)   
+**Amazon UK** - Catalogue Consultancy  (2014 - 2015)   
 *Consultancy service to ~30 brands in order to improve brand exposure and efficacy of display, employing a wide
 range of specific novel analytical tools.*
 
