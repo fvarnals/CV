@@ -1,8 +1,8 @@
 ## Freddie Varnals
 
-I am a highly curious and enthusiastic individual, with a long standing passion for the Sciences, data analytics, and problem solving. Throughout my academic and professional career, I have always relished in and thrived on asking difficult questions and using data to find empirically justified answers. 
+*I am a highly curious and enthusiastic individual, with a long standing passion for the Sciences, data analytics, and problem solving. Throughout my academic and professional career, I have always relished in and thrived on asking difficult questions and using data to find empirically justified answers.* 
 
-I am at my best when applying lateral thinking to problem solving, and get a huge buzz from finding solutions to complex problems. I am most excited by the intersection between Machine Learning and Software, and would love to apply and further develop my knowledge and skills in a professional environment.
+*I am at my best when applying lateral thinking to problem solving, and get a huge buzz from finding solutions to complex problems. I am most excited by the intersection between Machine Learning and Software, and would love to apply and further develop my knowledge and skills in a professional environment.*
 
 **<p>Recent Projects:</p>**
 
@@ -101,19 +101,16 @@ identify high bias/under-fitting vs high variance/over-fitting data issues and h
 
 ## Experience
 
-**Amazon UK** (Jun 2015 to Feb 2017)    
-*Strategic Brand Consultancy*  
-
-**An extremely dynamic and demanding role primarily divided between - business consultancy for international 
-brands, and internal optimisation of core business procedures through automation and innovation.**
+**Amazon UK** - Strategic Brand Consultancy (Jun 2015 to Feb 2017)    
+*An extremely dynamic and demanding role primarily divided between - business consultancy for international 
+brands, and internal optimisation of core business procedures through automation and innovation.*
 
 
-**Amazon UK** (Dec 2014 to Jun 2015)   
-*Catalogue Consultancy*  
+**Amazon UK** - Catalogue Consultancy  (Dec 2014 to Jun 2015)   
+*Consultancy service to ~30 brands in order to improve brand exposure and efficacy of display, employing a wide
+range of specific novel analytical tools.*
 
-**Consultancy service to ~30 brands in order to improve brand exposure and efficacy of display, employing a wide
-range of specific novel analytical tools.**
-
+-----------------------
 
 ## Hobbies
 - I have a deep interest in Neuroscience and Pharmacology, specifically Psychopharmacology, and would love to apply softwarer development and datascience skills in this field.
