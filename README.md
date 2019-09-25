@@ -11,7 +11,7 @@ I am at my best when applying lateral thinking to problem solving, and get a hug
 | <p>[**Strawberry Alarm Clock**](https://github.com/fvarnals/strawberry-alarm-clock)</p> | <p align="left">Team project Smart Alarm Clock where user sets arrival time and app calculates and updates alarm time based on traffic conditions for journey, as well as setting an alarm song based on weather forecast.</p> | <p align="center">React Native, Android Studio, JavaScript, Jest, Enzyme</p>  |
 | <p align="center">[**Machine Learning**](https://github.com/fvarnals/Idling-Engines-Audio-Recognition)</p> | <p align="left">Machine Learning classifier using Neural Networks to classify Urban Sounds.</p> | <p align="center">Python, Keras, TensorFlow, Librosa </p>
 | <p align="center">[AceBook](https://github.com/fvarnals/acebook-Stay_on_Track)</p> | <p align="left">Facebook clone built in a small team over two weeks using Rails.</p> | <p align="center">Ruby, Rails, SQLite, Rspec, Capybara</p>
-
+-----------------
 
 ### Skills
 
@@ -55,7 +55,7 @@ I am at my best when applying lateral thinking to problem solving, and get a hug
 
 - Quarterly business reviews presented to both internal and external senior management, providing broad and 
 comprehensive analysis to inform stakeholders of progress, strategy, and my performance. 
-
+-----------------------------------------------------
 ## Education
 
 #### Makers Academy (May 2019 to September 2019)
@@ -78,10 +78,16 @@ comprehensive analysis to inform stakeholders of progress, strategy, and my perf
 #### University of Bristol (2009-2012)
 *Chemistry BSc*
 
+#### Merchant Taylors’ School (Northwood) (2001 – 2008)
+*A levels: Chemistry (A), Physics (A), Maths (B) 340 UCAS Points*<br>
+*AS levels: Chemistry (A), Physics (A), Maths (A), Economics (A)*<br>
+*GCSEs: 7A\*s,1A, 2Bs*
+
+----------------------------------------------------------------
 #### Other Qualifications
 
 ##### Stanford Machine Learning 
-*Coursera (Oct 2018 - Dec 2018) - 100% Passing Grade*
+*Coursera (Oct 2018 - Dec 2018) - 100% Passing Grade*<br>
 **A comprehensive course teaching theory as well as practical application of machine learning algorithms, from
 Linear Regression to Artificial Neural Networks, with weekly graded exams and programming assignments.**
 
