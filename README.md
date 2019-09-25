@@ -6,6 +6,15 @@ Throughout my academic and professional career, I have always relished in and th
 
 I have independently taught myself coding, datascience and deep learning techinques from scratch, and have recently completed an intensive 4-month Software Development bootcamp with Makers, where I have learnt OOP, TDD, Agile Software Development, Pair Programming, and Project Work in a heavily self-learning based curriculum.
 
+**<p>Recent Projects:</p>**
+
+| Project  | Description  | Languages & Frameworks  |
+|---|---|---|
+| <p>[**Strawberry Alarm Clock**](https://github.com/fvarnals/strawberry-alarm-clock)</p> | <p align="left">Team project Smart Alarm Clock where user sets arrival time and app calculates and updates alarm time based on traffic conditions for journey, as well as setting an alarm song based on weather forecast.</p> | <p align="center">React Native, Android Studio, JavaScript, Jest, Enzyme</p>  |
+| <p align="center">[**Audio Classifier for Idling Engine Sounds**](https://github.com/fvarnals/Idling-Engines-Audio-Recognition)</p> | <p align="left">Machine Learning classifier using Neural Networks to classify Urban Sounds</p> | <p align="center">Python, Keras, TensorFlow, Librosa </p>
+| <p align="center">[AceBook](https://github.com/fvarnals/acebook-Stay_on_Track)</p> | <p align="left">Facebook clone built in a small team over two weeks using Rails.</p> | <p align="center">Ruby, Rails, SQLite, Rspec, Capybara</p>
+
+
 ### Skills
 
 #### *Automation and Innovation*
