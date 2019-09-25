@@ -6,27 +6,34 @@ Throughout my academic and professional career, I have always relished in and th
 
 I have independently taught myself coding, datascience and deep learning techinques from scratch, and have recently completed an intensive 4-month Software Development bootcamp with Makers, where I have learnt OOP, TDD, Agile Software Development, Pair Programming, and Project Work in a heavily self-learning based curriculum.
 
-## Skills
+### Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### *Automation and Innovation*
+- Developed a <a href="https://github.com/fvarnals/strawberry-alarm-clock" target="blank">Smart Alarm Clock</a> for Android where the user sets arrival time rather than wakeup time, adjusting alarm time based on journey delays.
 
-#### Analytical
+- Added feature automatically sets the alarm song to match the weather forecast for wakeup time and location.
 
-**Amazon UK (2014-2017)**
-- Regular critical business analysis for brands, deep-diving into performance to identify growth opportunities, utilising key
-metrics such as revenue, availability, conversions, and brand exposure – both of brands grew above category average.
-- Utilised Excel Macros and SQL to automate promotional pricing, improving efficiency and reducing errors.
-- Created Excel deck to flag issues relating to key product metrics (i.e. stock and pricing issues), avoiding time
-consuming manual processing, and avoiding missed opportunities.
+- Independently automated calculation of promotional pricing for my team at Amazon using Excel VBA Macros and SQL, improving efficiency and reducing pricing errors. 
 
-#### Another Skill
+- Created an Excel deck to flag issues relating to key product metrics (i.e. stock and pricing issues), avoiding time consuming manual processing, and avoiding missed opportunities.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### *Analytical*
+- Currently working on a <a href="https://github.com/fvarnals/Idling-Engines-Audio-Recognition" target="blank">Machine Learning</a> project to classify urban sounds, specifically to detect idling engines.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Testing and analysis of behavioural statistics relating to customer browsing and web interaction.
+
+- Developed new animal model of Depression, using rodent interaction with touchscreens to gather and analyse large volumes of behavioural data.
+
+- Collated and processed large experimental datasets, to identify pertinent variables for analysis using IBM SPSS. 
+
+#### *Teamwork and Managing Relationships*
+- Formulated anonymous aggregated feedback for project work in order to address issues with teamwork skills and communication at Makers Academy.
+
+- Coordinated with CJO to organize a workshop to facilitate team relationships.
+
+- Six weeks of afternoon pair programming, followed by five weeks of team project work.
+
+- Ran workshops at Amazon to support my team with regards to catalogue work, to promote individual proficiency with regards to lower level tasks in order to improve operational efficiency. 
 
 ## Education
 
