@@ -1,6 +1,6 @@
 ## Freddie Varnals
 
-*I am a highly curious and enthusiastic individual, with a long standing passion for the Sciences, data analytics, and problem solving. Throughout my academic and professional career, I have always relished in and thrived on asking difficult questions and using data to find empirically justified answers.* 
+*I am a highly curious and enthusiastic individual, with a long standing passion for the Sciences, Data Analytics, and problem solving. Throughout my academic and professional career, I have always relished in and thrived on asking difficult questions and using data to find empirically justified answers.* 
 
 *I am at my best when applying lateral thinking to problem solving, and get a huge buzz from finding solutions to complex problems. I am most excited by the intersection between Machine Learning and Software, and would love to apply and further develop my knowledge and skills in a professional environment.*
 
@@ -29,9 +29,9 @@
 
 - Currently working on a <a href="https://github.com/fvarnals/Idling-Engines-Audio-Recognition" target="blank">Machine Learning</a> project to classify urban sounds, specifically to detect idling engines in the hope that it could be employed in tackling offending vehicles as part of the recent government initiatives to impose "no idling" zones.
 
-- Taught myself coding, datascience, machine learning and deep learning techinques from scratch (using Coursera, Learn Python the Hard Way and Datacamp as well as numerous forums and blogs).
+- Taught myself coding, datascience, machine learning and deep learning techinques from scratch.
 
-- Completed an intensive 4-month Software Development bootcamp with Makers, where I have learnt OOP, TDD, Agile Software Development, Pair Programming, and Project Work in a heavily self-learning based curriculum.
+- Completed an intensive 4-month Software Development bootcamp with Makers Academy, where I have learnt to code in multiple languages, using a variety of frameworks in a self-learning based curriculum.
 
 #### *Analytical*
 
@@ -50,7 +50,7 @@
 
 - Six weeks of afternoon pair programming, followed by five weeks of team project work.
 
-- Ran workshops at Amazon to support my team with regards to catalogue work, to promote individual proficiency with regards to lower level tasks in order to improve operational efficiency. 
+- Ran workshops at Amazon to support team by promoting individual proficiency in lower level tasks in order to improve operational efficiency. 
 
 - Presented quarterly business review to both internal and external senior management, providing broad and comprehensive analysis to inform stakeholders of progress, strategy, and my performance.
 -----------------------------------------------------
@@ -111,7 +111,8 @@ range of specific novel analytical tools.*
 -----------------------
 
 ## Hobbies
-- I have a deep interest in Neuroscience and Pharmacology, specifically Psychopharmacology, and would love to apply softwarer development and datascience skills in this field.
-- I am passionate about cooking, travelling and diving. 
+- I have a deep interest in Neuroscience and Pharmacology, specifically Psychopharmacology, and would love to apply software development and datascience skills in this field.
+- PADI OpenWater qualification; I love diving at sites all over the world, and even explored a sunken city in Naples!
+- I am passionate about cooking and love to travel the world finding new recipes. 
 - I am fascinated by Philosophy and Theology, and often attend salons where we get together to discuss the most recondite social, political and philosophical issues for fun and personal development.
 
