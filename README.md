@@ -8,9 +8,10 @@
 
 | Project  | Description  | Languages & Frameworks  |
 |---|---|---|
-| <p>[**Strawberry Alarm Clock**](https://github.com/fvarnals/strawberry-alarm-clock)</p> | <p align="left">Team project Smart Alarm Clock where user sets arrival time and app calculates and updates alarm time based on traffic conditions for journey, as well as setting an alarm song based on weather forecast.</p> | <p align="center">React Native, Android Studio, JavaScript, Jest, Enzyme</p>  |
-| <p align="center">[**Machine Learning**](https://github.com/fvarnals/Idling-Engines-Audio-Recognition)</p> | <p align="left">Machine Learning classifier using Neural Networks to classify Urban Sounds.</p> | <p align="center">Python, Keras, TensorFlow, Librosa </p>
-| <p align="center">[AceBook](https://github.com/fvarnals/acebook-Stay_on_Track)</p> | <p align="left">Facebook clone built in a small team over two weeks using Rails.</p> | <p align="center">Ruby, Rails, SQLite, Rspec, Capybara</p>
+| <p>[**Strawberry Alarm Clock**](https://github.com/fvarnals/strawberry-alarm-clock)</p> | <p align="left">Smart Alarm Clock built for Android.</p> | <p align="center">React Native, Android Studio, JavaScript, Jest, Enzyme</p>  |
+| <p align="center">[**Machine Learning**](https://github.com/fvarnals/Idling-Engines-Audio-Recognition)</p> | <p align="left">Machine Learning Multi-Class Classifier.</p> | <p align="center">Python, Keras, TensorFlow, Librosa </p>
+| <p align="center">[AceBook](https://github.com/fvarnals/acebook-Stay_on_Track)</p> | <p align="left">Facebook clone.</p> | <p align="center">Ruby, Rails, SQLite, Rspec, Capybara</p>
+| <p align="center">[Thermostat](https://github.com/fvarnals/Thermostat)</p> | <p align="left">Virtual Thermostat inspired by Greta Thunberg.</p> | <p align="center">JavaScript, Jasmine, jQuery</p>
 -----------------
 
 ### Skills
@@ -28,15 +29,15 @@
 
 - Currently working on a <a href="https://github.com/fvarnals/Idling-Engines-Audio-Recognition" target="blank">Machine Learning</a> project to classify urban sounds, specifically to detect idling engines in the hope that it could be employed in tackling offending vehicles as part of the recent government initiatives to impose "no idling" zones.
 
-- Independently taught myself coding, datascience, machine learning and deep learning techinques from scratch (using Coursera, Learn Python the Hard Way and Datacamp as well as numerous forums and blogs).
+- Taught myself coding, datascience, machine learning and deep learning techinques from scratch (using Coursera, Learn Python the Hard Way and Datacamp as well as numerous forums and blogs).
 
 - Completed an intensive 4-month Software Development bootcamp with Makers, where I have learnt OOP, TDD, Agile Software Development, Pair Programming, and Project Work in a heavily self-learning based curriculum.
 
 #### *Analytical*
 
-- Critical business analysis for brands, utilising key metrics such as revenue, availability, conversions, and brand exposure; **both brands grew above category average.** 
+-  Conducted critical business analysis for brands, utilising key metrics such as revenue, availability, conversions, and brand exposure; **both brands grew above category average.** 
 
-- Testing and analysis of behavioural statistics relating to customer browsing and web interaction.
+- Tested and analysed behavioural statistics relating to customer browsing and web interaction.
 
 - Developed new animal model of Depression, using rodent interaction with touchscreens to gather and analyse large volumes of behavioural data.
 
@@ -47,14 +48,11 @@
 #### *Teamwork and Managing Relationships*
 - Formulated anonymous aggregated feedback for project work in order to address issues with teamwork skills and communication at Makers Academy.
 
-- Coordinated with CJO to organize a workshop to facilitate team relationships.
-
 - Six weeks of afternoon pair programming, followed by five weeks of team project work.
 
 - Ran workshops at Amazon to support my team with regards to catalogue work, to promote individual proficiency with regards to lower level tasks in order to improve operational efficiency. 
 
-- Quarterly business reviews presented to both internal and external senior management, providing broad and 
-comprehensive analysis to inform stakeholders of progress, strategy, and my performance. 
+- Presented quarterly business review to both internal and external senior management, providing broad and comprehensive analysis to inform stakeholders of progress, strategy, and my performance.
 -----------------------------------------------------
 ## Education
 
@@ -71,7 +69,7 @@ comprehensive analysis to inform stakeholders of progress, strategy, and my perf
 *Biomedical Sciences Research MSc (**Distinction**)*
 *Units - Neuroscience, Pharmacology and Cell Biology*
 
-- Course covered a full tower of abstraction - from molecular machinery of cells up to emergent systems such as Memory and Emotional processing.
+- Course covered a full tower of abstraction, from molecular machinery of cells up to emergent systems such as Memory and Emotional processing.
 
 - Developed a new method of screening antidepressant pharmaceuticals in rats, using a touch screen based task. Research aimed to develop and validate two novel animal models of depression in tandem, one with on-line recording of data for deep analysis.
 
