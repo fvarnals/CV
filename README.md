@@ -8,8 +8,8 @@
 
 | Project  | Description  | Languages & Frameworks  |
 |---|---|---|
-| <p>[**Smart Alarm**](https://github.com/fvarnals/strawberry-alarm-clock)</p> | <p align="left">App built for Android.</p> | <p align="center">React Native, Android Studio, JavaScript, Jest, Enzyme</p>  |
-| <p align="center">[**Machine Learning**](https://github.com/fvarnals/Idling-Engines-Audio-Recognition)</p> | <p align="left">Machine Learning Multi-Class Classifier.</p> | <p align="center">Python, Keras, TensorFlow, Librosa </p>
+| <p align="center">[**Smart Alarm**](https://github.com/fvarnals/strawberry-alarm-clock)</p> | <p align="left">App built for Android.</p> | <p align="center">React Native, Android Studio, JavaScript, Jest, Enzyme</p>  |
+| <p align="center">[**Urban Sounds**](https://github.com/fvarnals/Idling-Engines-Audio-Recognition)</p> | <p align="left">Machine Learning Multi-Class Classifier.</p> | <p align="center">Python, Keras, TensorFlow, Librosa </p>
 | <p align="center">[AceBook](https://github.com/fvarnals/acebook-Stay_on_Track)</p> | <p align="left">Facebook clone.</p> | <p align="center">Ruby, Rails, SQLite, Rspec, Capybara</p>
 | <p align="center">[Thermostat](https://github.com/fvarnals/Thermostat)</p> | <p align="left">Virtual Thermostat inspired by Greta Thunberg.</p> | <p align="center">JavaScript, Jasmine, jQuery</p>
 -----------------
