@@ -12,6 +12,7 @@
 | <p align="center">[**Urban Sounds**](https://github.com/fvarnals/Idling-Engines-Audio-Recognition)</p> | <p align="left">Machine Learning Multi-Class Classifier.</p> | <p align="center">Python, Keras, TensorFlow, Librosa </p>
 | <p align="center">[AceBook](https://github.com/fvarnals/acebook-Stay_on_Track)</p> | <p align="left">Facebook clone.</p> | <p align="center">Ruby, Rails, SQLite, Rspec, Capybara</p>
 | <p align="center">[Thermostat](https://github.com/fvarnals/Thermostat)</p> | <p align="left">Virtual Thermostat inspired by Greta Thunberg.</p> | <p align="center">JavaScript, Jasmine, jQuery</p>
+| <p align="center">[Sudoku Solver](https://github.com/fvarnals/Sudoku-Solver)</p> | <p align="left">Program to solve simple 9x9 Sudoku Puzzles.</p> | <p align="center">Python, PyTest</p>
 -----------------
 
 ### Skills
@@ -21,7 +22,7 @@
 
 - Added feature automatically sets the alarm song to match the weather forecast for wakeup time and location.
 
-- utomated promotional pricing for my team at Amazon, reducing errors and saving up to 20 hours of work per week.
+- Automated promotional pricing for my team at Amazon, reducing errors and saving up to 20 hours of work per week.
 
 - Created an Excel deck to flag issues relating to key product metrics (i.e. stock and pricing issues), avoiding time consuming manual processing, and avoiding missed opportunities.
 
@@ -49,6 +50,8 @@
 - Formulated anonymous aggregated feedback for project work in order to address issues with teamwork skills and communication at Makers Academy.
 
 - Six weeks of afternoon pair programming, followed by five weeks of team project work.
+
+- Negotiated and coordinated highest grossing Black Friday promotion in my category, generating over £800k in revenue.
 
 - Ran workshops at Amazon to support team by promoting individual proficiency in lower level tasks in order to improve operational efficiency. 
 
