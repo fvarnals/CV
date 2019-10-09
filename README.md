@@ -21,7 +21,7 @@
 
 - Added feature automatically sets the alarm song to match the weather forecast for wakeup time and location.
 
-- Independently automated calculation of promotional pricing for my team at Amazon using Excel VBA Macros and SQL, improving efficiency and reducing pricing errors. 
+- utomated promotional pricing for my team at Amazon, reducing errors and saving up to 20 hours of work per week.
 
 - Created an Excel deck to flag issues relating to key product metrics (i.e. stock and pricing issues), avoiding time consuming manual processing, and avoiding missed opportunities.
 
@@ -29,7 +29,7 @@
 
 - Currently working on a <a href="https://github.com/fvarnals/Idling-Engines-Audio-Recognition" target="blank">Machine Learning</a> project to classify urban sounds, specifically to detect idling engines in the hope that it could be employed in tackling offending vehicles as part of the recent government initiatives to impose "no idling" zones.
 
-- Taught myself coding, datascience, machine learning and deep learning techinques from scratch.
+- Taught myself React Native and Android Studio in a few days, to build Smart Alarm Clock App for final project. 
 
 - Completed an intensive 4-month Software Development bootcamp with Makers Academy, where I have learnt to code in multiple languages, using a variety of frameworks in a self-learning based curriculum.
 
